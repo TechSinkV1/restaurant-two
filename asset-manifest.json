@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/restaurant-two/static/css/main.8d79265d.css",
+    "main.js": "/restaurant-two/static/js/main.4285bcfc.js",
+    "static/js/787.aab8bd84.chunk.js": "/restaurant-two/static/js/787.aab8bd84.chunk.js",
+    "index.html": "/restaurant-two/index.html",
+    "main.8d79265d.css.map": "/restaurant-two/static/css/main.8d79265d.css.map",
+    "main.4285bcfc.js.map": "/restaurant-two/static/js/main.4285bcfc.js.map",
+    "787.aab8bd84.chunk.js.map": "/restaurant-two/static/js/787.aab8bd84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d79265d.css",
+    "static/js/main.4285bcfc.js"
+  ]
+}
